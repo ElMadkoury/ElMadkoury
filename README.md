@@ -2,12 +2,13 @@
 
 **Full-Stack Web Developer · SEO Specialist · Technical Team Lead** — based in Kénitra, Morocco.
 
-- 🚀 3+ years building websites and e-commerce stores: 60+ projects for clients in 8 countries
+- 🚀 3+ years building websites and e-commerce stores: 70+ projects for clients in 8 countries
 - 👥 Leading a 4-person dev team with Jira (Scrum)
 - 🌐 Head of Media, Technology & Development at [Fikra Foundation](https://fikra.ma)
 - 🎓 Studying Web & Mobile Application Engineering (IAWM) at EST Salé, Université Mohammed V
 - 🌱 Currently learning Swift, Java / Jakarta EE and Android
 
+🏢 **Agency:** [Madkoury Digital](https://madkourydigital.com)  
 📄 **CV:** [tan-giraffe-534683.hostingersite.com](https://tan-giraffe-534683.hostingersite.com)
 
 ## Tech stack
@@ -55,3 +56,9 @@ Arabic (native) · French (professional) · English (professional)
 ## Contact
 
 ✉️ [khalidmdkoury@gmail.com](mailto:khalidmdkoury@gmail.com)
+
+[![Website](https://img.shields.io/badge/madkourydigital.com-000?logo=googlechrome&logoColor=fff)](https://madkourydigital.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff)](https://www.youtube.com/@MadkouryDigital)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/madkourydigital)
+[![TikTok](https://img.shields.io/badge/TikTok-000?logo=tiktok&logoColor=fff)](https://www.tiktok.com/@madkourydigital)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000)](https://linktr.ee/Madkoury)
