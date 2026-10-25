@@ -8,8 +8,7 @@
 - 🎓 Studying Web & Mobile Application Engineering (IAWM) at EST Salé, Université Mohammed V
 - 🌱 Currently learning Swift, Java / Jakarta EE and Android
 
-🏢 **Agency:** [Madkoury Digital](https://madkourydigital.com)  
-📄 **CV:** [tan-giraffe-534683.hostingersite.com](https://tan-giraffe-534683.hostingersite.com)
+🏢 **Portfolio:** [Madkoury Digital](https://madkourydigital.com)  
 
 ## Tech stack
 
